@@ -6,7 +6,7 @@ Use starter code to start each section, and **final code to compare it with your
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
-## FAQ
+## FAq
 
 ### Q1: How do I download the files?
 
